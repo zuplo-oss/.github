@@ -4,6 +4,6 @@ API-key management, developer documentation, and rate-limiting, for any stack, i
 Get started at https://zuplo.com/docs/overview
 
 ## Zuplo Open Source
-This Github Organization is used for the purpose os sponsoring Github open source projects. 
+This Github organization is used for the purpose of sponsoring Github open source projects. 
 
 Zuplo's primary Github account is [@zuplo](https://github.com/zuplo)
